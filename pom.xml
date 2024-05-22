@@ -77,8 +77,11 @@
 						</exclude>
 					</excludes>
 				</configuration>
+
 			</plugin>
+
 		</plugins>
+		<finalName>springsecuritypasswordauthenticator</finalName>
 	</build>
 
 </project>
